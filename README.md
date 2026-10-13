@@ -1,4 +1,4 @@
-# p2_p5java_application
+# p2_p5_java_application
 3-Tier Java Application Deployment Using Docker (P2)
 Tech Stack: Git, GitHub, Jenkins, SonarQube, Maven, Nexus, Trivy, Docker Hub, Docker Stack, AWS CloudWatch
 •	Automated CI/CD pipelines using Jenkins to integrate GitHub, perform Maven builds, and conduct code quality analysis using SonarQube.
